@@ -1,7 +1,7 @@
 Vibration-Experiments
 ==============================
 
-Project Data foto test vibrations on a 3D printer and to test reduction methods
+Project Data to test vibrations on a 3D printer and to test reduction methods
 
 Project Organization
 ------------
